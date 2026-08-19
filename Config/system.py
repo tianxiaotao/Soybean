@@ -12,8 +12,8 @@
 account = {
 
     'Vvic': [
-        { 'uid':1846988, 'name': 'vvic8493953156', 'token': 'ac43051e-2d0e-43f7-978a-e89698461386' },
-        { 'uid':2862702, 'name': 'vvic9153980633', 'token': '5129759f-1d9b-4815-8c34-88487e267db6' },
+        { 'uid':1846988, 'name': 'xxxxxxxx', 'token': 'xxxxxxx-2d0e-43f7-978a-xxxxxxxxx' },
+        { 'uid':2862702, 'name': 'xxxxxxxx', 'token': 'xxxxxxx-1d9b-4815-8c34-xxxxxxxxx' },
     ]
 
 }
